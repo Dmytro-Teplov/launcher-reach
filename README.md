@@ -1,4 +1,6 @@
-# <img src="icon-rounded.png" alt="Reach icon" width="48" align="center"> Reach
+<img src="icon-rounded.png" alt="Reach icon" width="96" align="left" hspace="12">
+
+# Reach
 
 Reach is an Android home screen that keeps your apps within thumb's reach, with widgets above and apps below.
 

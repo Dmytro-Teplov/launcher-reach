@@ -28,6 +28,10 @@ Android 9 or later.
 
 Reach has no internet access, ads or analytics. See the [privacy policy](PRIVACY.md).
 
+## Terms
+
+See the [terms of service](TERMS.md).
+
 ## Contact
 
 Questions and feedback: launcher.reach@gmail.com

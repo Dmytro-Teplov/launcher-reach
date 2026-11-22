@@ -12,13 +12,14 @@ Reach is an Android home screen that keeps your apps within thumb's reach, with 
 - **Widgets:** three sheets of widgets above your apps
 - **Folders:** nested folders that you can resize and color
 - **Pinned apps bar:** keep your favorite apps and folders one tap away
-- **App search:** find apps quickly from the home screen
+- **App search:** find apps quickly from the home screen, with your recent apps shown before you type and accents ignored
 - **App shortcuts:** long-press an app to jump straight to its actions
 - **Notification dots:** optional and off by default, shown in the phone's accent color
 - **Custom look:** opacity, outlines, folder shape, light and dark themes, and system dynamic colors
 - **Blur:** frosted glass surfaces on supported phones running Android 12 or later
 - **Essentials mode:** no blur or animations, for speed and low memory use
 - **Work profiles:** work apps appear alongside your own
+- **Backup and restore:** save your layout, folders, pinned apps, widgets and settings to a file, and restore them later or on another phone
 
 ## Requirements
 
@@ -31,6 +32,10 @@ Reach has no internet access, ads or analytics. See the [privacy policy](PRIVACY
 ## Terms
 
 See the [terms of service](TERMS.md).
+
+## Open-source notices
+
+See [NOTICES.md](NOTICES.md).
 
 ## Contact
 
